@@ -17,3 +17,8 @@ h2 {
   margin: 0 auto;
   text-align: center;
 }
+
+button {
+  height: 100px;
+  width: 200px
+}
